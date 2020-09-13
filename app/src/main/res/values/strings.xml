@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string-array name="title">
+        <item>brasl</item>
+        <item>braslet</item>
+        <item>earing</item>
+        <item>set</item>
+        <item>sets</item>
+
+    </string-array>
+</resources>
